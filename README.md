@@ -9,3 +9,7 @@ programming practice
 암호 방식 변경
 
 버젼관리 쥑이네!!!
+
+SSH로 도전 
+
+커밋도 해야지 
