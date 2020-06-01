@@ -20,6 +20,5 @@ SSH로 도전
 
 어디가 리모트 인가? 오리진이 어디지?  
 
-Branch practice
-
+what's wrong?
 
